@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/nmea/static/css/main.c2605a5a.css",
+    "main.js": "/nmea/static/js/main.92dab106.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/nmea/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/boat.svg": "/nmea/static/media/boat.a13908b186ac842ed4d9166c454b5189.svg",
+    "static/media/boatOrange.svg": "/nmea/static/media/boatOrange.78695d0651ab0ef0275e0970ea181749.svg",
+    "index.html": "/nmea/index.html",
+    "main.c2605a5a.css.map": "/nmea/static/css/main.c2605a5a.css.map",
+    "main.92dab106.js.map": "/nmea/static/js/main.92dab106.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/nmea/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2605a5a.css",
+    "static/js/main.92dab106.js"
+  ]
+}
